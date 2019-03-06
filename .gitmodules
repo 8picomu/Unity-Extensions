@@ -1,0 +1,3 @@
+[submodule "ScriptTemplates"]
+	path = ScriptTemplates
+	url = git@github.com:pf35301/ScriptTemplates.git
