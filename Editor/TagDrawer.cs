@@ -4,7 +4,6 @@ using UnityEditor;
 #endif
 
 namespace pf35301.Extensions.Editor {
-    public class TagAttribute : PropertyAttribute { }
 
 #if UNITY_EDITOR
 	[CustomPropertyDrawer(typeof(TagAttribute))]
