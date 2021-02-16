@@ -3,7 +3,7 @@
 using UnityEditor;
 #endif
 
-namespace pf35301.Extensions.Editor {
+namespace eightpicomu.Extensions.Editor {
 
 #if UNITY_EDITOR
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]

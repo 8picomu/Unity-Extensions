@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
 
-namespace pf35301.Extensions.Editor {
+namespace eightpicomu.Extensions.Editor {
     public class TagAttribute : PropertyAttribute { }
 }

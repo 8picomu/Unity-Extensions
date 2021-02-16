@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace pf35301.Extensions.Editor {
+namespace eightpicomu.Extensions.Editor {
     public class PrefabFieldAttribute : PropertyAttribute {
 
     }

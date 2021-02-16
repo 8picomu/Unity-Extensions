@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace pf35301.Extensions {
+namespace eightpicomu.Extensions {
     public interface IListWrapper<T> {
         List<T> List { get; set; }
     }

@@ -6,7 +6,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace pf35301.Extensions.Editor {
+namespace eightpicomu.Extensions.Editor {
 
     //https://github.com/baba-s/Unity-SerializeReferenceExtensions
     [CustomPropertyDrawer(typeof(SubclassSelectorAttribute))]

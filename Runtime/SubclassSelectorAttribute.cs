@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace pf35301.Extensions.Editor {
+namespace eightpicomu.Extensions.Editor {
 
 	//https://github.com/baba-s/Unity-SerializeReferenceExtensions
 	[AttributeUsage(AttributeTargets.Field, AllowMultiple = false)]

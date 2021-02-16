@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace pf35301.Extensions.Editor {
+namespace eightpicomu.Extensions.Editor {
 #if UNITY_EDITOR
 
     [CustomPropertyDrawer(typeof(PrefabFieldAttribute))]

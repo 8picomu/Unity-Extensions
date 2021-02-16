@@ -1,8 +1,11 @@
 {
-    "name": "pf35301",
+    "name": "eightpicomu",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [
-        "Editor"
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
