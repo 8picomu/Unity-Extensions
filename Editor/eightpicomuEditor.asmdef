@@ -1,7 +1,9 @@
 {
     "name": "eightpicomuEditor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:0635ab8a3285b7c4faf1bf897aa51a34"
+    ],
     "includePlatforms": [
         "Editor"
     ],
